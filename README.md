@@ -4,6 +4,9 @@ It can be annoying to dive into HTML every time to refresh the news section.
 With sheet2news.js you can use Google Sheet to update your news section with a breeze.
 All the news updates below are from the Google Sheet  [here](https://docs.google.com/spreadsheets/d/12f1k677L0LEDuZNvVRsycUUBLteeWyGcF9vA5anFWG0/edit#gid=0)
 
+![](sheet2news.gif)
+
+
 
 
 ## How to set it up.
