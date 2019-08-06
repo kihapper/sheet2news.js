@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+body{
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Rubik', sans-serif;
+    background: #f8f9fa;
+}
+
+.container{
+    padding: 2vw 15vw 2vw 15vw;
+  }
+
+.gSheet_date{
+    padding-bottom:50px;
+    color: #9b9b9b;
+    font-size: calc(0.5em + 0.5vw);
+  }
+  
+.gSheet_title{
+    color: black;
+    padding-bottom:10px;
+    font-size: calc(1em + 0.5vw);
+  }
+
+.gSheet_news{
+    font-size: calc(0.8em + 0.5vw);
+    color: #9b9b9b;
+  }
+  
+  
