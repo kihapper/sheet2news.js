@@ -40,10 +40,12 @@ body{
     padding-top: 10px;
   }
 
-h4{
+.mini-heading{
   line-height: 2;
   font-size: calc(0.8em + 0.5vw);
   color: whitesmoke;
+  padding-bottom: 20px;
+  padding-top: 30px;
 }
 
 .container{
