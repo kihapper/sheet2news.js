@@ -1,16 +1,55 @@
 
-@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Text&display=swap');
 
 body{
     font-size: 20px;
     line-height: 1.5;
-    font-family: 'Rubik', sans-serif;
-    background: #f8f9fa;
+    font-family: 'Red Hat Text', sans-serif;
+    background: whitesmoke;
+    margin:0;
+    padding:0;
+  }
+
+  a{
+    color: whitesmoke;
+  }
+  a:hover{
+    color: aqua;
+  }
+
+  section{
+    background: blue;
+    z-index: -20;
+    padding-top: 40px;
+  }
+
+.heading{ 
+    line-height: 1;
+    font-size: calc(2.7em + 0.2vw);
+    color: whitesmoke;
+    padding-top: 60px;
+    margin-bottom: 30px;
+
+  }
+
+.sub-heading{
+    line-height: 1.8;
+    font-size: calc(0.7em + 0.7vw);
+    color: whitesmoke;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+h4{
+  line-height: 2;
+  font-size: calc(0.8em + 0.5vw);
+  color: whitesmoke;
 }
 
 .container{
-    padding: 2vw 15vw 2vw 15vw;
+    padding: 5vw 15vw 2vw 15vw;
   }
+
 
 .gSheet_date{
     padding-bottom:50px;
